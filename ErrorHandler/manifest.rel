@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Values version="2.0">
+  <value name="name">ErrorHandler</value>
+  <value name="version">1.0</value>
+  <value name="build"></value>
+  <value name="patch_nums"></value>
+  <value name="description"></value>
+  <value name="target_pkg_version">1.0</value>
+  <value name="jvm_version">1.3.0</value>
+  <value name="source_server_version">4.6</value>
+  <value name="target_server_version">4.6</value>
+  <value name="time">2002-11-01 10:37:05 PST</value>
+  <value name="type">full</value>
+  <value name="target_pkg_name">ErrorHandler</value>
+  <value name="publisher">USBSVLSVC1W3456.philips.com</value>
+  <array name="files_to_delete" type="value" depth="1">
+  </array>
+</Values>
